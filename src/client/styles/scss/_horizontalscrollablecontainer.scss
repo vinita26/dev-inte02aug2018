@@ -1,0 +1,18 @@
+
+.hsListContainer {
+    height: 9em;
+    width: 100%;
+    background: #44059e;
+    display: flex;
+    align-items: flex-start;
+    padding: 0 .5em;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: auto
+}
+
+.mdc-card{
+    width: 7em;
+    height: 8em;
+    padding: .2em;
+    margin: .4em;
+}
